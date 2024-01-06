@@ -32,10 +32,11 @@ Click the "Predict" button to get the placement prediction result.
 If you would like to contribute to the project, please follow these steps:
 
 ## Fork the repository.
-Create a new branch: git checkout -b feature/your-feature.
-Commit your changes: git commit -m 'Add your feature'.
-Push to the branch: git push origin feature/your-feature.
-Submit a pull request.
+
+- **Create a new branch: git checkout -b feature/your-feature.**
+- **Commit your changes: git commit -m 'Add your feature'.**
+- **Push to the branch: git push origin feature/your-feature.**
+- **Submit a pull request.**
 
 ## License
 
