@@ -24,18 +24,20 @@ Follow these steps to set up the project locally:
 
 This will launch the Streamlit web app locally. Open the provided URL in your web browser to interact with the placement prediction model.
 
-Usage
+## Usage
 Upon running the application, you will be presented with a user interface to input relevant details.
 Enter the required information such as academic scores, skills, and other parameters.
 Click the "Predict" button to get the placement prediction result.
-Contributing
+## Contributing
 If you would like to contribute to the project, please follow these steps:
 
-Fork the repository.
+## Fork the repository.
 Create a new branch: git checkout -b feature/your-feature.
 Commit your changes: git commit -m 'Add your feature'.
 Push to the branch: git push origin feature/your-feature.
 Submit a pull request.
-License
+
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
    
